@@ -1,0 +1,19 @@
+{
+  "name": "celebfacedetection",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AcAntellAno/celebrityFaceDetection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AcAntellAno/celebrityFaceDetection/issues"
+  },
+  "homepage": "https://github.com/AcAntellAno/celebrityFaceDetection#readme"
+}
