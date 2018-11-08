@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AcAntellAno/celebrityFaceDetection/issues"
   },
-  "homepage": "https://github.com/AcAntellAno/celebrityFaceDetection#readme"
+  "homepage": "https://github.com/AcAntellAno/celebrityFaceDetection#readme",
+  "dependencies": {
+    "sightengine": "^1.3.1"
+  }
 }
